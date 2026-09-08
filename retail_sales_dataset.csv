@@ -1,0 +1,661 @@
+﻿order_id,order_date,city,state,category,product_name,quantity,unit_price,discount_percent,payment_mode,customer_age
+10000,22-02-2024,Mumbai,Maharashtra,Electronics,Keyboard,2,1978,5,Net Banking,25
+10001,15-09-2024,Kolkata,West Bengal,Electronics,Headphones,1,1941,5,Net Banking,22
+10002,28-10-2024,Hyderabad,Telangana,Sports,Dumbbells,4,1955,15,Debit Card,22
+10003,20-04-2024,Delhi,Delhi,Sports,Skipping Rope,3,2426,5,Debit Card,25
+10004,15-05-2024,Mumbai,Maharashtra,Home & Kitchen,Mixer,3,2967,20,UPI,
+10005,04-07-2024,Mumbai,Maharashtra,Home & Kitchen,Mixer,5,2551,20,Net Banking,30
+10006,21-02-2024,Mumbai,Maharashtra,Electronics,Smartphone,3,803,5,Cash,35
+10007,17-04-2024,Ahmedabad,Gujarat,Sports,Yoga Mat,2,3182,10,Debit Card,25
+10008,18-05-2024,Delhi,Delhi,Beauty,Shampoo,2,3936,15,Net Banking,30
+10009,17-05-2024,Pune,Maharashtra,Electronics,Smartphone,1,2734,15,UPI,30
+10010,15-05-2024,Pune,Maharashtra,Clothing,Kurta,4,3908,5,Credit Card,30
+10011,04-07-2024,Chennai,Tamil Nadu,Sports,Dumbbells,4,4930,15,Credit Card,28
+10012,14-12-2024,Ahmedabad,Gujarat,Electronics,Headphones,1,1402,5,Cash,25
+10013,10-10-2024,Kolkata,West Bengal,Home & Kitchen,Lunch Box,4,4484,10,UPI,25
+10014,21-03-2024,Chennai,Tamil Nadu,Sports,Yoga Mat,1,2554,15,Cash,22
+10015,23-11-2024,Chennai,Tamil Nadu,Beauty,Shampoo,5,1021,10,Net Banking,30
+10016,02-11-2024,Delhi,Delhi,Grocery,Cooking Oil,5,4494,0,Debit Card,
+10017,03-05-2024,Bangalore,Karnataka,Electronics,Keyboard,3,2111,0,Net Banking,25
+10018,06-03-2024,Mumbai,Maharashtra,Sports,Skipping Rope,1,4513,5,Cash,28
+10019,19-12-2024,Chennai,Tamil Nadu,Beauty,Hair Oil,4,1885,20,Credit Card,35
+10020,02-03-2024,Kolkata,West Bengal,Sports,Yoga Mat,4,4389,15,Credit Card,30
+10021,28-10-2024,Mumbai,Maharashtra,Grocery,Rice Bag,5,4687,5,Credit Card,22
+10022,18-06-2024,Mumbai,Maharashtra,Sports,Cricket Bat,2,702,0,UPI,30
+10023,19-10-2024,Chennai,Tamil Nadu,Sports,Skipping Rope,2,4567,5,Net Banking,
+10024,03-12-2024,Hyderabad,Telangana,Home & Kitchen,Water Bottle,2,922,0,Cash,40
+10025,25-07-2024,Kolkata,West Bengal,Home & Kitchen,Water Bottle,1,956,0,Debit Card,25
+10026,04-08-2024,Hyderabad,Telangana,Clothing,Jeans,5,3825,5,Credit Card,35
+10027,26-01-2024,Ahmedabad,Gujarat,Clothing,T-Shirt,4,4658,0,Net Banking,22
+10028,19-04-2024,Mumbai,Maharashtra,Clothing,Jeans,4,4128,15,Cash,22
+10029,26-05-2024,Delhi,Delhi,Home & Kitchen,Mixer,4,2322,15,Cash,
+10030,04-10-2024,Delhi,Delhi,Clothing,Jacket,2,629,20,UPI,40
+10031,21-03-2024,Bangalore,Karnataka,Electronics,Bluetooth Speaker,4,4269,20,UPI,25
+10032,02-03-2024,Delhi,Delhi,Electronics,Bluetooth Speaker,1,2076,15,Net Banking,30
+10033,24-09-2024,Bangalore,Karnataka,Beauty,Face Wash,4,4931,20,Debit Card,35
+10034,08-03-2024,Hyderabad,Telangana,Sports,Yoga Mat,2,2325,15,Debit Card,
+10035,07-02-2024,Pune,Maharashtra,Electronics,Headphones,4,4762,0,Net Banking,30
+10036,25-05-2024,Chennai,Tamil Nadu,Clothing,Jacket,1,2151,10,Credit Card,
+10037,05-12-2024,Chennai,Tamil Nadu,Beauty,Hair Oil,1,4693,10,UPI,28
+10038,24-05-2024,Chennai,Tamil Nadu,Electronics,Headphones,5,1423,10,Net Banking,30
+10039,27-01-2024,Pune,Maharashtra,Clothing,Jacket,5,4152,10,UPI,45
+10040,23-03-2024,Chennai,Tamil Nadu,Electronics,Headphones,3,1221,10,Cash,45
+10041,08-07-2024,Bangalore,Karnataka,Electronics,Headphones,2,4619,0,Net Banking,28
+10042,02-07-2024,Kolkata,West Bengal,Clothing,T-Shirt,3,3137,0,,30
+10043,24-03-2024,Mumbai,Maharashtra,Grocery,Sugar,4,1416,5,Credit Card,45
+10044,22-03-2024,Bangalore,Karnataka,Clothing,Jacket,4,2182,10,UPI,45
+10045,05-06-2024,Bangalore,Karnataka,Home & Kitchen,Pressure Cooker,2,3920,10,Credit Card,30
+10046,05-02-2024,Bangalore,Karnataka,Sports,Football,4,2839,10,Debit Card,40
+10047,13-05-2024,Kolkata,West Bengal,Sports,Dumbbells,3,376,0,Credit Card,35
+10048,11-08-2024,Bangalore,Karnataka,Electronics,Bluetooth Speaker,4,2981,10,Net Banking,25
+10049,01-01-2024,Kolkata,West Bengal,Beauty,Shampoo,3,513,15,Net Banking,30
+10050,02-06-2024,Pune,Maharashtra,Home & Kitchen,Mixer,3,2721,0,Net Banking,35
+10051,08-04-2024,Kolkata,West Bengal,Grocery,Tea Powder,3,4691,5,Cash,45
+10052,01-01-2024,Delhi,Delhi,Beauty,Hair Oil,3,3476,20,Debit Card,35
+10053,14-08-2024,Hyderabad,Telangana,Home & Kitchen,Lunch Box,5,2789,15,Cash,30
+10054,05-12-2024,Ahmedabad,Gujarat,Sports,Football,1,2474,20,Net Banking,40
+10055,13-01-2024,Mumbai,Maharashtra,Clothing,Jacket,2,1781,5,UPI,30
+10056,09-04-2024,Ahmedabad,Gujarat,Beauty,Face Wash,4,3545,20,Cash,
+10057,22-04-2024,Kolkata,West Bengal,Clothing,Jeans,1,1023,15,Credit Card,
+10058,25-08-2024,Bangalore,Karnataka,Beauty,Shampoo,1,3889,5,Net Banking,40
+10059,22-03-2024,Ahmedabad,Gujarat,Beauty,Hair Oil,4,4638,15,Cash,
+10060,20-05-2024,Chennai,Tamil Nadu,Clothing,Jacket,5,4119,5,Cash,25
+10061,11-02-2024,Chennai,Tamil Nadu,Clothing,Jacket,3,2769,20,Credit Card,28
+10062,27-07-2024,Hyderabad,Telangana,Home & Kitchen,Pressure Cooker,2,676,15,Debit Card,
+10063,22-12-2024,Kolkata,West Bengal,Electronics,Smartphone,4,3340,20,UPI,45
+10064,02-10-2024,Ahmedabad,Gujarat,Electronics,Keyboard,3,3344,15,Net Banking,30
+10065,18-07-2024,Ahmedabad,Gujarat,Clothing,Jacket,4,4128,0,Debit Card,45
+10066,20-07-2024,Delhi,Delhi,Home & Kitchen,Pressure Cooker,5,4525,0,Net Banking,22
+10067,26-01-2024,Mumbai,Maharashtra,Sports,,2,3932,5,Debit Card,45
+10068,22-05-2024,Pune,Maharashtra,Clothing,Kurta,3,2914,15,Cash,35
+10069,24-04-2024,Mumbai,Maharashtra,Home & Kitchen,Mixer,5,576,10,UPI,22
+10070,05-03-2024,Bangalore,Karnataka,Clothing,Jeans,1,1398,5,Cash,25
+10071,06-11-2024,Hyderabad,Telangana,Home & Kitchen,Pan,3,1524,20,UPI,28
+10072,12-12-2024,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,1,2705,20,Cash,45
+10073,16-12-2024,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2,984,10,Net Banking,25
+10074,16-09-2024,Bangalore,Karnataka,Grocery,Sugar,4,3185,0,Debit Card,22
+10075,28-12-2024,Kolkata,West Bengal,Home & Kitchen,Mixer,4,3117,15,Credit Card,45
+10076,26-08-2024,Delhi,Delhi,Sports,Dumbbells,3,4558,15,Cash,35
+10077,25-08-2024,Pune,Maharashtra,Clothing,T-Shirt,3,3842,5,Net Banking,45
+10078,18-04-2024,Pune,Maharashtra,Electronics,Mouse,3,1639,15,Debit Card,35
+10079,21-09-2024,Pune,Maharashtra,Grocery,Sugar,3,4703,0,Credit Card,25
+10080,19-12-2024,Hyderabad,Telangana,Sports,Skipping Rope,4,4698,5,Cash,
+10081,20-12-2024,Ahmedabad,Gujarat,Electronics,Headphones,3,1965,15,Credit Card,35
+10082,08-10-2024,Pune,Maharashtra,Home & Kitchen,Lunch Box,5,2966,15,Debit Card,40
+10083,08-04-2024,Ahmedabad,Gujarat,Grocery,Biscuits,3,2038,0,Debit Card,25
+10084,25-09-2024,Delhi,Delhi,Clothing,Jeans,4,2415,20,Net Banking,35
+10085,03-06-2024,Mumbai,Maharashtra,Clothing,Jacket,2,3106,5,UPI,28
+10086,22-11-2024,Chennai,Tamil Nadu,Electronics,Headphones,5,2543,5,Cash,25
+10087,23-06-2024,Bangalore,Karnataka,Beauty,Moisturizer,4,4071,15,Credit Card,22
+10088,07-02-2024,Chennai,Tamil Nadu,Home & Kitchen,Mixer,1,3432,15,Net Banking,22
+10089,01-03-2024,Delhi,Delhi,Clothing,Shirt,3,847,5,Net Banking,45
+10090,28-10-2024,Hyderabad,Telangana,Beauty,Perfume,4,3776,10,Cash,35
+10091,04-12-2024,Bangalore,Karnataka,Beauty,Face Wash,2,1878,10,UPI,28
+10092,28-07-2024,Hyderabad,Telangana,Clothing,Shirt,1,1432,0,Cash,
+10093,06-02-2024,Chennai,Tamil Nadu,Electronics,Smartphone,3,2466,15,Credit Card,35
+10094,16-05-2024,Hyderabad,Telangana,Home & Kitchen,Mixer,5,1991,5,Credit Card,25
+10095,12-08-2024,Bangalore,Karnataka,Clothing,Jacket,5,4812,10,UPI,
+10096,09-09-2024,Chennai,Tamil Nadu,Sports,Skipping Rope,3,4249,20,Cash,25
+10097,16-02-2024,Bangalore,Karnataka,Home & Kitchen,Pan,5,2201,0,Credit Card,22
+10098,29-11-2024,Chennai,Tamil Nadu,Beauty,Face Wash,2,4004,20,Cash,35
+10099,27-06-2024,Delhi,Delhi,Beauty,Perfume,4,897,15,Cash,40
+10100,21-12-2024,Pune,Maharashtra,Sports,Cricket Bat,2,2851,15,Cash,35
+10101,09-05-2024,Kolkata,West Bengal,Beauty,Face Wash,4,871,10,Debit Card,25
+10102,28-01-2024,Kolkata,West Bengal,Beauty,Face Wash,5,3934,15,Credit Card,40
+10103,08-10-2024,Ahmedabad,Gujarat,Sports,Skipping Rope,1,1817,10,Credit Card,35
+10104,02-05-2024,Ahmedabad,Gujarat,Sports,Skipping Rope,1,386,20,Credit Card,35
+10105,24-08-2024,Bangalore,Karnataka,Beauty,Perfume,1,1990,0,UPI,28
+10106,04-09-2024,Ahmedabad,Gujarat,Sports,Yoga Mat,5,2389,15,Cash,30
+10107,17-09-2024,Ahmedabad,Gujarat,Beauty,Shampoo,4,1711,20,Credit Card,25
+10108,24-05-2024,Chennai,Tamil Nadu,Home & Kitchen,Pan,5,2338,0,Debit Card,
+10109,09-10-2024,Delhi,Delhi,Home & Kitchen,Lunch Box,4,2977,10,Net Banking,45
+10110,29-04-2024,Ahmedabad,Gujarat,Grocery,Cooking Oil,2,4834,15,Cash,22
+10111,10-09-2024,Pune,Maharashtra,Sports,Skipping Rope,4,3312,5,UPI,28
+10112,08-01-2024,Pune,Maharashtra,Electronics,Mouse,1,4458,15,Credit Card,45
+10113,20-12-2024,Delhi,Delhi,Electronics,Mouse,3,2923,20,Cash,25
+10114,04-10-2024,Pune,Maharashtra,Sports,Dumbbells,4,2744,15,UPI,25
+10115,20-02-2024,Hyderabad,Telangana,Sports,Yoga Mat,2,890,15,UPI,
+10116,29-01-2024,Delhi,Delhi,Sports,Yoga Mat,1,526,10,Debit Card,40
+10117,16-10-2024,Pune,Maharashtra,Home & Kitchen,Pressure Cooker,2,4501,15,Credit Card,28
+10118,25-10-2024,Delhi,Delhi,Electronics,Bluetooth Speaker,4,2122,15,Credit Card,30
+10119,26-08-2024,Ahmedabad,Gujarat,Sports,Yoga Mat,4,2241,0,Debit Card,28
+10120,19-12-2024,Mumbai,Maharashtra,Home & Kitchen,Pan,5,2600,15,Debit Card,
+10121,14-07-2024,Chennai,Tamil Nadu,Clothing,Kurta,4,1023,5,Net Banking,40
+10122,05-01-2024,Chennai,Tamil Nadu,Sports,Yoga Mat,1,3392,10,Net Banking,22
+10123,21-11-2024,Ahmedabad,Gujarat,Grocery,Cooking Oil,5,3036,5,Credit Card,35
+10124,18-01-2024,Delhi,Delhi,Sports,Cricket Bat,1,2680,15,Net Banking,40
+10125,12-04-2024,Delhi,Delhi,Electronics,Keyboard,3,3553,5,Credit Card,40
+10126,28-02-2024,Chennai,Tamil Nadu,Clothing,Jacket,4,2567,10,Cash,25
+10127,21-07-2024,Delhi,Delhi,Clothing,Kurta,5,3146,0,UPI,35
+10128,22-11-2024,Mumbai,Maharashtra,Home & Kitchen,Pan,3,4938,15,Debit Card,25
+10129,08-11-2024,Hyderabad,Telangana,Home & Kitchen,Mixer,5,4749,10,Credit Card,25
+10130,24-01-2024,Ahmedabad,Gujarat,Sports,Yoga Mat,4,1105,5,UPI,35
+10131,17-07-2024,Ahmedabad,Gujarat,Electronics,Headphones,2,4553,5,Cash,40
+10132,11-11-2024,Kolkata,West Bengal,Beauty,Shampoo,4,961,15,Cash,35
+10133,30-04-2024,Bangalore,Karnataka,Sports,Yoga Mat,2,3782,15,Debit Card,25
+10134,07-04-2024,Pune,Maharashtra,Beauty,Moisturizer,1,3411,10,UPI,
+10135,19-06-2024,Mumbai,Maharashtra,Sports,Football,5,324,0,Credit Card,28
+10136,29-04-2024,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2,4953,5,Debit Card,28
+10137,30-03-2024,Bangalore,Karnataka,Grocery,Cooking Oil,2,4575,10,UPI,22
+10138,09-01-2024,Delhi,Delhi,Electronics,Keyboard,2,4973,10,Credit Card,35
+10139,31-08-2024,Bangalore,Karnataka,Clothing,Kurta,5,1081,0,Cash,40
+10140,03-06-2024,Mumbai,Maharashtra,Home & Kitchen,Lunch Box,2,505,20,Cash,22
+10141,30-12-2024,Bangalore,Karnataka,Home & Kitchen,Water Bottle,4,1034,15,Cash,25
+10142,20-05-2024,Mumbai,Maharashtra,Grocery,Sugar,2,688,5,Net Banking,40
+10143,05-11-2024,Kolkata,West Bengal,Beauty,Hair Oil,3,3866,20,Cash,25
+10144,26-04-2024,Mumbai,Maharashtra,Sports,Dumbbells,2,3673,15,Cash,40
+10145,09-06-2024,Ahmedabad,Gujarat,Home & Kitchen,Water Bottle,1,2710,15,Debit Card,40
+10146,17-02-2024,Delhi,Delhi,Sports,Skipping Rope,1,897,0,Cash,25
+10147,14-10-2024,Pune,Maharashtra,Clothing,Shirt,1,4954,20,Debit Card,25
+10148,08-06-2024,Kolkata,West Bengal,Grocery,Tea Powder,1,2506,20,Debit Card,25
+10149,11-10-2024,Hyderabad,Telangana,Clothing,Kurta,2,1036,10,Debit Card,25
+10150,10-11-2024,Chennai,Tamil Nadu,Beauty,Shampoo,4,4745,20,Net Banking,22
+10151,28-06-2024,Chennai,Tamil Nadu,Electronics,Smartphone,3,2681,10,UPI,28
+10152,16-02-2024,Delhi,Delhi,Beauty,Perfume,1,1312,0,Net Banking,30
+10153,08-06-2024,Kolkata,West Bengal,Home & Kitchen,Water Bottle,3,1439,10,Debit Card,25
+10154,19-05-2024,Bangalore,Karnataka,Clothing,Jeans,5,557,0,Cash,45
+10155,19-09-2024,Ahmedabad,Gujarat,Beauty,Perfume,4,2387,5,UPI,40
+10156,07-12-2024,Kolkata,West Bengal,Electronics,Keyboard,5,4136,20,Debit Card,22
+10157,03-06-2024,Hyderabad,Telangana,Home & Kitchen,Lunch Box,1,212,5,Credit Card,28
+10158,08-08-2024,Chennai,Tamil Nadu,Grocery,Biscuits,1,213,15,Credit Card,28
+10159,06-02-2024,Kolkata,West Bengal,Beauty,Shampoo,5,4727,10,Cash,22
+10160,07-08-2024,Kolkata,West Bengal,Electronics,Mouse,1,2714,20,Net Banking,45
+10161,28-03-2024,Kolkata,West Bengal,Grocery,Rice Bag,4,320,10,Net Banking,
+10162,28-10-2024,Pune,Maharashtra,Electronics,Mouse,1,2143,15,Cash,25
+10163,09-02-2024,Kolkata,West Bengal,Grocery,Biscuits,2,2878,5,Net Banking,25
+10164,15-03-2024,Hyderabad,Telangana,Grocery,Biscuits,2,2085,0,Debit Card,30
+10165,25-08-2024,Delhi,Delhi,Beauty,Shampoo,1,1601,15,Net Banking,
+10166,28-08-2024,Pune,Maharashtra,Sports,Yoga Mat,2,3752,0,Cash,35
+10167,07-06-2024,Chennai,Tamil Nadu,Beauty,Face Wash,3,4306,0,Cash,
+10168,10-11-2024,Bangalore,Karnataka,Electronics,Keyboard,3,778,0,Net Banking,45
+10169,29-11-2024,Ahmedabad,Gujarat,Beauty,Hair Oil,1,3834,20,Credit Card,40
+10170,24-06-2024,Ahmedabad,Gujarat,Beauty,Shampoo,1,3840,0,UPI,28
+10171,08-11-2024,Bangalore,Karnataka,Clothing,Kurta,4,4443,20,Credit Card,40
+10172,27-01-2024,Pune,Maharashtra,Grocery,Tea Powder,4,2921,20,Debit Card,25
+10173,02-12-2024,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,2477,10,Net Banking,28
+10174,01-12-2024,Pune,Maharashtra,Electronics,Bluetooth Speaker,2,3015,10,Cash,28
+10175,09-12-2024,Mumbai,Maharashtra,Grocery,Sugar,4,2840,5,Net Banking,25
+10176,02-04-2024,Kolkata,West Bengal,Beauty,Moisturizer,1,3120,10,Credit Card,40
+10177,31-05-2024,Ahmedabad,Gujarat,Clothing,Jeans,2,1419,0,UPI,22
+10178,24-03-2024,Pune,Maharashtra,Beauty,Shampoo,5,3236,5,Credit Card,28
+10179,08-11-2024,Ahmedabad,Gujarat,Electronics,Mouse,3,2095,15,Debit Card,
+10180,07-07-2024,Hyderabad,Telangana,Beauty,Shampoo,3,3992,5,Net Banking,
+10181,23-03-2024,Ahmedabad,Gujarat,Grocery,,5,4470,15,Credit Card,28
+10182,30-12-2024,Chennai,Tamil Nadu,Electronics,Mouse,3,4692,0,Net Banking,25
+10183,16-03-2024,Chennai,Tamil Nadu,Electronics,Smartphone,3,3830,20,Cash,25
+10184,21-07-2024,Hyderabad,Telangana,Home & Kitchen,Pan,1,3548,0,Net Banking,40
+10185,12-06-2024,Hyderabad,Telangana,Home & Kitchen,Mixer,3,1989,0,UPI,40
+10186,27-12-2024,Delhi,Delhi,Clothing,T-Shirt,3,4020,5,Cash,
+10187,07-10-2024,Bangalore,Karnataka,Electronics,Headphones,3,1916,5,Net Banking,45
+10188,02-05-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,3,1148,0,Cash,
+10189,19-11-2024,Mumbai,Maharashtra,Electronics,Mouse,5,4541,0,Net Banking,30
+10190,19-10-2024,Delhi,Delhi,Grocery,Tea Powder,1,3040,5,Cash,28
+10191,16-09-2024,Mumbai,Maharashtra,Beauty,Moisturizer,1,4459,20,Net Banking,22
+10192,09-01-2024,Kolkata,West Bengal,Home & Kitchen,Mixer,4,3208,10,Debit Card,25
+10193,23-01-2024,Pune,Maharashtra,Clothing,T-Shirt,5,2873,5,Debit Card,40
+10194,02-02-2024,Delhi,Delhi,Sports,Skipping Rope,4,1643,5,Cash,22
+10195,07-06-2024,Chennai,Tamil Nadu,Clothing,T-Shirt,2,493,10,Net Banking,45
+10196,25-01-2024,Ahmedabad,Gujarat,Grocery,Rice Bag,2,2493,10,Debit Card,35
+10197,22-06-2024,Mumbai,Maharashtra,Grocery,Tea Powder,4,3752,15,Credit Card,
+10198,10-02-2024,Ahmedabad,Gujarat,Grocery,Sugar,3,826,15,Cash,28
+10199,05-06-2024,Chennai,Tamil Nadu,Grocery,Rice Bag,1,2836,10,Cash,45
+10200,29-06-2024,Delhi,Delhi,Sports,Skipping Rope,3,3812,0,Net Banking,45
+10201,19-09-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,1,3477,10,Credit Card,22
+10202,30-04-2024,Delhi,Delhi,Beauty,Perfume,1,1184,0,Debit Card,40
+10203,08-07-2024,Kolkata,West Bengal,Beauty,Face Wash,5,1406,15,Debit Card,
+10204,09-06-2024,Mumbai,Maharashtra,Beauty,Shampoo,5,3156,15,Debit Card,30
+10205,14-10-2024,Mumbai,Maharashtra,Electronics,Smartphone,4,4391,15,UPI,35
+10206,12-04-2024,Chennai,Tamil Nadu,Sports,Skipping Rope,2,2489,15,UPI,28
+10207,07-12-2024,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,4,869,10,Debit Card,25
+10208,24-04-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,2,3111,20,UPI,30
+10209,20-10-2024,Delhi,Delhi,Clothing,,1,3106,20,Debit Card,
+10210,02-09-2024,Delhi,Delhi,Beauty,Face Wash,1,2683,15,Net Banking,45
+10211,18-08-2024,Kolkata,West Bengal,Beauty,Face Wash,2,2747,0,Cash,40
+10212,14-09-2024,Delhi,Delhi,Beauty,Hair Oil,2,1207,15,UPI,25
+10213,26-06-2024,Delhi,Delhi,Grocery,Cooking Oil,2,2793,5,Net Banking,35
+10214,16-11-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,5,2398,5,Debit Card,25
+10215,05-11-2024,Delhi,Delhi,Beauty,Hair Oil,2,1552,20,Debit Card,22
+10216,19-10-2024,Bangalore,Karnataka,Electronics,Headphones,5,2318,5,Cash,22
+10217,05-05-2024,Ahmedabad,Gujarat,Sports,Dumbbells,3,2624,15,Cash,35
+10218,04-09-2024,Ahmedabad,Gujarat,Electronics,Headphones,2,3751,15,Cash,30
+10219,23-07-2024,Pune,Maharashtra,Beauty,Shampoo,3,2765,10,Credit Card,40
+10220,18-08-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,4,1153,10,Credit Card,28
+10221,22-03-2024,Mumbai,Maharashtra,Electronics,Keyboard,4,3575,5,Debit Card,40
+10222,06-06-2024,Hyderabad,Telangana,Clothing,Kurta,5,3974,15,Cash,22
+10223,25-10-2024,Mumbai,Maharashtra,Home & Kitchen,Lunch Box,4,2122,5,Debit Card,22
+10224,01-10-2024,Bangalore,Karnataka,Grocery,Tea Powder,5,4005,10,UPI,25
+10225,24-01-2024,Kolkata,West Bengal,Clothing,Jacket,3,3453,10,Cash,22
+10226,15-09-2024,Hyderabad,Telangana,Grocery,Sugar,3,752,15,Cash,35
+10227,12-10-2024,Mumbai,Maharashtra,Clothing,T-Shirt,4,3207,10,Debit Card,28
+10228,24-01-2024,Hyderabad,Telangana,Beauty,Hair Oil,4,4246,0,UPI,28
+10229,20-09-2024,Pune,Maharashtra,Home & Kitchen,Lunch Box,4,1370,20,Credit Card,40
+10230,21-06-2024,Pune,Maharashtra,Clothing,Kurta,5,2601,20,Net Banking,
+10231,01-08-2024,Chennai,Tamil Nadu,Home & Kitchen,Mixer,3,2863,0,Net Banking,35
+10232,26-04-2024,Bangalore,Karnataka,Beauty,Perfume,3,4888,20,UPI,
+10233,17-01-2024,Delhi,Delhi,Beauty,Hair Oil,4,1360,5,Net Banking,25
+10234,30-07-2024,Hyderabad,Telangana,Electronics,Mouse,3,3580,5,Credit Card,45
+10235,14-10-2024,Ahmedabad,Gujarat,Sports,Cricket Bat,2,4399,5,Debit Card,
+10236,06-10-2024,Kolkata,West Bengal,Grocery,Cooking Oil,4,4517,10,Debit Card,35
+10237,25-04-2024,Ahmedabad,Gujarat,Clothing,Jeans,3,4721,10,Debit Card,35
+10238,13-10-2024,Hyderabad,Telangana,Sports,Skipping Rope,3,4080,10,Debit Card,35
+10239,15-03-2024,Mumbai,Maharashtra,Beauty,Hair Oil,4,3382,10,Debit Card,22
+10240,02-09-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,3,3773,10,Credit Card,30
+10241,27-10-2024,Chennai,Tamil Nadu,Beauty,Moisturizer,2,1044,20,Credit Card,30
+10242,21-02-2024,Bangalore,Karnataka,Sports,Dumbbells,2,2057,0,Cash,40
+10243,27-07-2024,Ahmedabad,Gujarat,Electronics,Smartphone,1,4658,5,Cash,
+10244,29-11-2024,Hyderabad,Telangana,Grocery,Biscuits,3,634,0,Net Banking,30
+10245,10-09-2024,Bangalore,Karnataka,Clothing,Kurta,2,447,15,Credit Card,35
+10246,25-05-2024,Bangalore,Karnataka,Electronics,Keyboard,5,1029,10,Cash,
+10247,18-06-2024,Delhi,Delhi,Beauty,Perfume,3,1729,0,Credit Card,
+10248,17-10-2024,Chennai,Tamil Nadu,Sports,Football,1,2911,10,Credit Card,28
+10249,08-12-2024,Kolkata,West Bengal,Home & Kitchen,Lunch Box,3,860,15,UPI,28
+10250,15-07-2024,Delhi,Delhi,Home & Kitchen,Pan,2,205,10,Credit Card,
+10251,13-05-2024,Chennai,Tamil Nadu,Grocery,Biscuits,5,4843,0,Debit Card,30
+10252,26-07-2024,Bangalore,Karnataka,Sports,Cricket Bat,4,2663,5,,35
+10253,09-03-2024,Mumbai,Maharashtra,Sports,Yoga Mat,3,1959,5,Cash,28
+10254,29-08-2024,Ahmedabad,Gujarat,Sports,Dumbbells,3,3556,20,Net Banking,30
+10255,27-09-2024,Hyderabad,Telangana,Sports,Dumbbells,1,4454,15,Debit Card,25
+10256,01-10-2024,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,5,1806,20,Credit Card,28
+10257,07-09-2024,Pune,Maharashtra,Beauty,Perfume,1,1832,20,UPI,
+10258,15-10-2024,Bangalore,Karnataka,Home & Kitchen,Pressure Cooker,5,3553,15,UPI,
+10259,21-04-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,4,2234,0,Net Banking,25
+10260,05-02-2024,Bangalore,Karnataka,Home & Kitchen,Pan,1,4583,0,Cash,22
+10261,14-07-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,2,3593,10,Cash,45
+10262,01-04-2024,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2,2998,0,Net Banking,45
+10263,25-08-2024,Delhi,Delhi,Sports,Football,1,336,10,Net Banking,45
+10264,21-05-2024,Kolkata,West Bengal,Clothing,Jeans,4,2985,5,Credit Card,25
+10265,15-04-2024,Bangalore,Karnataka,Sports,Skipping Rope,5,278,5,UPI,25
+10266,24-07-2024,Bangalore,Karnataka,Home & Kitchen,Lunch Box,1,2154,0,Cash,30
+10267,21-10-2024,Hyderabad,Telangana,Electronics,Smartphone,5,2519,5,Debit Card,40
+10268,02-06-2024,Hyderabad,Telangana,Grocery,Cooking Oil,5,1960,15,Debit Card,22
+10269,25-06-2024,Delhi,Delhi,Sports,Skipping Rope,5,4210,0,Cash,40
+10270,02-10-2024,Kolkata,West Bengal,Home & Kitchen,Pressure Cooker,3,3233,5,Cash,30
+10271,30-07-2024,Hyderabad,Telangana,Grocery,Cooking Oil,4,622,20,Cash,28
+10272,18-08-2024,Kolkata,West Bengal,Clothing,Jacket,2,2855,0,Debit Card,25
+10273,06-04-2024,Hyderabad,Telangana,Electronics,Keyboard,4,473,0,Net Banking,30
+10274,07-04-2024,Ahmedabad,Gujarat,Clothing,Jacket,3,275,5,UPI,
+10275,09-10-2024,Hyderabad,Telangana,Sports,Dumbbells,2,3399,5,Debit Card,35
+10276,03-07-2024,Kolkata,West Bengal,Home & Kitchen,Lunch Box,3,2676,10,Net Banking,
+10277,09-06-2024,Ahmedabad,Gujarat,Electronics,Mouse,3,1814,10,Cash,22
+10278,26-10-2024,Hyderabad,Telangana,Sports,Football,1,2286,20,Net Banking,45
+10279,18-10-2024,Chennai,Tamil Nadu,Clothing,Jeans,3,2034,15,Credit Card,
+10280,29-06-2024,Pune,Maharashtra,Grocery,Tea Powder,4,3925,5,Credit Card,28
+10281,08-02-2024,Ahmedabad,Gujarat,Clothing,Shirt,1,4442,0,UPI,22
+10282,21-04-2024,Kolkata,West Bengal,Clothing,Jeans,1,1387,0,Net Banking,
+10283,09-01-2024,Pune,Maharashtra,Electronics,Bluetooth Speaker,5,4108,15,UPI,45
+10284,09-01-2024,Bangalore,Karnataka,Electronics,Bluetooth Speaker,3,4538,10,Net Banking,45
+10285,08-04-2024,Delhi,Delhi,Electronics,Headphones,5,1369,5,Net Banking,35
+10286,23-08-2024,Pune,Maharashtra,Grocery,Tea Powder,1,3206,15,Net Banking,30
+10287,13-07-2024,Hyderabad,Telangana,Grocery,Rice Bag,1,915,15,Cash,
+10288,10-08-2024,Bangalore,Karnataka,Sports,Cricket Bat,2,827,15,Debit Card,25
+10289,24-01-2024,Bangalore,Karnataka,Clothing,Jeans,5,4045,10,UPI,35
+10290,14-03-2024,Bangalore,Karnataka,Clothing,Jacket,1,1847,20,Cash,25
+10291,12-12-2024,Chennai,Tamil Nadu,Clothing,Shirt,2,4792,15,Net Banking,40
+10292,28-01-2024,Kolkata,West Bengal,Sports,Football,1,4252,10,UPI,45
+10293,16-01-2024,Hyderabad,Telangana,Electronics,Keyboard,5,3399,10,Debit Card,
+10294,05-04-2024,Ahmedabad,Gujarat,Clothing,Jacket,5,3225,15,Net Banking,45
+10295,17-05-2024,Mumbai,Maharashtra,Beauty,Moisturizer,2,752,0,Credit Card,45
+10296,16-02-2024,Delhi,Delhi,Sports,Skipping Rope,3,3104,0,UPI,35
+10297,05-04-2024,Ahmedabad,Gujarat,Grocery,Biscuits,1,1235,0,Cash,
+10298,17-02-2024,Kolkata,West Bengal,Electronics,Headphones,1,3049,20,Net Banking,40
+10299,13-10-2024,Kolkata,West Bengal,Electronics,Keyboard,4,3326,0,Credit Card,28
+10300,09-09-2024,Kolkata,West Bengal,Clothing,Jeans,3,2616,10,Credit Card,25
+10301,09-02-2024,Delhi,Delhi,Home & Kitchen,Pan,4,2605,15,Debit Card,35
+10302,24-02-2024,Hyderabad,Telangana,Sports,Skipping Rope,5,1751,15,Credit Card,35
+10303,13-08-2024,Bangalore,Karnataka,Home & Kitchen,Pan,5,3262,10,Debit Card,45
+10304,09-06-2024,Delhi,Delhi,Grocery,Biscuits,5,1795,15,Credit Card,45
+10305,11-07-2024,Pune,Maharashtra,Grocery,Tea Powder,5,2135,10,Debit Card,45
+10306,15-12-2024,Pune,Maharashtra,Electronics,Bluetooth Speaker,2,4619,5,Net Banking,22
+10307,28-07-2024,Ahmedabad,Gujarat,Sports,Football,4,2536,0,Cash,28
+10308,07-02-2024,Chennai,Tamil Nadu,Clothing,Jacket,2,3616,15,Cash,
+10309,03-07-2024,Kolkata,West Bengal,Beauty,Hair Oil,4,4603,0,Net Banking,25
+10310,26-11-2024,Mumbai,Maharashtra,Clothing,Jacket,2,512,20,Cash,40
+10311,18-09-2024,Kolkata,West Bengal,Electronics,Headphones,1,2269,5,Net Banking,30
+10312,18-03-2024,Ahmedabad,Gujarat,Grocery,Tea Powder,4,4971,20,Debit Card,22
+10313,13-03-2024,Ahmedabad,Gujarat,Electronics,Keyboard,4,853,0,Debit Card,35
+10314,31-08-2024,Pune,Maharashtra,Home & Kitchen,Pressure Cooker,5,4106,10,UPI,
+10315,12-01-2024,Ahmedabad,Gujarat,Grocery,Rice Bag,3,516,0,Debit Card,25
+10316,22-03-2024,Delhi,Delhi,Sports,Football,5,1579,20,Debit Card,45
+10317,21-07-2024,Ahmedabad,Gujarat,Clothing,Kurta,2,1676,15,UPI,30
+10318,15-04-2024,Ahmedabad,Gujarat,Beauty,Perfume,4,186,5,Debit Card,25
+10319,22-08-2024,Mumbai,Maharashtra,Beauty,Shampoo,3,2820,5,UPI,35
+10320,19-07-2024,Ahmedabad,Gujarat,Beauty,Moisturizer,5,3333,20,,25
+10321,10-11-2024,Pune,Maharashtra,Grocery,Tea Powder,5,1563,10,Net Banking,25
+10322,03-04-2024,Delhi,Delhi,Grocery,Rice Bag,2,2651,0,Debit Card,28
+10323,04-08-2024,Kolkata,West Bengal,Home & Kitchen,Lunch Box,2,4858,15,Credit Card,
+10324,05-04-2024,Delhi,Delhi,Beauty,Shampoo,4,2516,5,Debit Card,
+10325,15-07-2024,Bangalore,Karnataka,Grocery,Rice Bag,4,1268,5,Net Banking,
+10326,26-03-2024,Kolkata,West Bengal,Sports,Skipping Rope,4,3786,15,UPI,22
+10327,27-05-2024,Hyderabad,Telangana,Grocery,Rice Bag,3,1991,20,Credit Card,
+10328,17-05-2024,Ahmedabad,Gujarat,Beauty,Hair Oil,1,4841,0,Net Banking,40
+10329,22-02-2024,Bangalore,Karnataka,Sports,Skipping Rope,5,1940,15,Credit Card,35
+10330,01-03-2024,Bangalore,Karnataka,Home & Kitchen,Pan,3,862,15,Credit Card,30
+10331,12-03-2024,Pune,Maharashtra,Sports,Dumbbells,4,1509,20,Credit Card,30
+10332,02-10-2024,Bangalore,Karnataka,Beauty,,5,2452,20,Credit Card,40
+10333,10-03-2024,Chennai,Tamil Nadu,Grocery,Sugar,3,4364,0,Cash,22
+10334,30-12-2024,Chennai,Tamil Nadu,Sports,Football,2,2195,5,Debit Card,30
+10335,11-07-2024,Kolkata,West Bengal,Home & Kitchen,Pressure Cooker,5,2351,15,Cash,25
+10336,06-09-2024,Mumbai,Maharashtra,Home & Kitchen,Lunch Box,3,3173,15,Debit Card,22
+10337,22-07-2024,Mumbai,Maharashtra,Sports,Skipping Rope,3,668,20,Credit Card,45
+10338,07-10-2024,Hyderabad,Telangana,Home & Kitchen,Pan,3,2473,10,Net Banking,28
+10339,09-01-2024,Ahmedabad,Gujarat,Grocery,Rice Bag,1,965,15,UPI,28
+10340,28-11-2024,Ahmedabad,Gujarat,Home & Kitchen,Mixer,4,1807,5,Debit Card,28
+10341,06-12-2024,Chennai,Tamil Nadu,Electronics,Keyboard,3,825,10,Credit Card,22
+10342,26-12-2024,Kolkata,West Bengal,Sports,Yoga Mat,2,3666,0,UPI,22
+10343,14-12-2024,Hyderabad,Telangana,Home & Kitchen,Mixer,2,2002,20,Cash,22
+10344,01-09-2024,Bangalore,Karnataka,Sports,Yoga Mat,1,3609,5,UPI,30
+10345,02-06-2024,Kolkata,West Bengal,Electronics,Headphones,1,2716,10,Credit Card,45
+10346,05-01-2024,Delhi,Delhi,Sports,Football,1,4495,20,Net Banking,28
+10347,17-12-2024,Ahmedabad,Gujarat,Grocery,Cooking Oil,2,3522,20,Cash,30
+10348,28-06-2024,Mumbai,Maharashtra,Electronics,Smartphone,1,4979,15,Cash,40
+10349,03-11-2024,Delhi,Delhi,Clothing,Jacket,1,2182,20,Net Banking,35
+10350,17-09-2024,Bangalore,Karnataka,Sports,Yoga Mat,2,4391,20,Credit Card,45
+10351,27-02-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,2,4204,15,Credit Card,
+10352,17-07-2024,Mumbai,Maharashtra,Beauty,Face Wash,3,2742,5,Net Banking,45
+10353,27-10-2024,Pune,Maharashtra,Beauty,Shampoo,4,747,0,UPI,22
+10354,26-05-2024,Chennai,Tamil Nadu,Clothing,T-Shirt,1,3410,20,Net Banking,45
+10355,11-11-2024,Kolkata,West Bengal,Sports,Skipping Rope,1,4545,20,Credit Card,35
+10356,01-10-2024,Mumbai,Maharashtra,Grocery,Rice Bag,5,1814,5,Debit Card,45
+10357,14-02-2024,Mumbai,Maharashtra,Grocery,Tea Powder,2,624,5,Cash,25
+10358,02-03-2024,Ahmedabad,Gujarat,Beauty,Hair Oil,1,2683,5,UPI,28
+10359,12-05-2024,Bangalore,Karnataka,Clothing,Kurta,3,4434,20,Credit Card,40
+10360,07-08-2024,Delhi,Delhi,Sports,Yoga Mat,1,390,10,Debit Card,25
+10361,18-09-2024,Chennai,Tamil Nadu,Sports,Dumbbells,1,4214,15,Debit Card,22
+10362,22-02-2024,Ahmedabad,Gujarat,Beauty,Shampoo,3,1438,10,Net Banking,25
+10363,05-05-2024,Hyderabad,Telangana,Sports,Dumbbells,1,510,0,UPI,
+10364,31-12-2024,Pune,Maharashtra,Home & Kitchen,Pressure Cooker,2,439,20,Cash,30
+10365,19-10-2024,Pune,Maharashtra,Clothing,Kurta,3,2372,0,Debit Card,25
+10366,05-02-2024,Bangalore,Karnataka,Clothing,Jeans,5,526,15,Cash,35
+10367,07-07-2024,Chennai,Tamil Nadu,Grocery,Rice Bag,5,3891,0,Credit Card,35
+10368,29-10-2024,Chennai,Tamil Nadu,Sports,Dumbbells,2,3950,10,Cash,30
+10369,04-10-2024,Hyderabad,Telangana,Clothing,T-Shirt,4,345,5,Debit Card,22
+10370,28-09-2024,Pune,Maharashtra,Electronics,Mouse,3,1001,5,Credit Card,45
+10371,28-04-2024,Ahmedabad,Gujarat,Electronics,Smartphone,3,912,0,Net Banking,45
+10372,09-03-2024,Pune,Maharashtra,Home & Kitchen,Mixer,5,932,20,Cash,25
+10373,10-06-2024,Bangalore,Karnataka,Home & Kitchen,Pressure Cooker,2,2539,10,Cash,40
+10374,10-03-2024,Pune,Maharashtra,Home & Kitchen,Pan,2,761,5,Net Banking,25
+10375,27-07-2024,Delhi,Delhi,Electronics,Smartphone,4,3967,10,UPI,40
+10376,16-02-2024,Hyderabad,Telangana,Home & Kitchen,Pan,4,2320,0,Credit Card,35
+10377,01-07-2024,Bangalore,Karnataka,Clothing,Jacket,2,897,5,Cash,22
+10378,11-10-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,3462,15,Net Banking,30
+10379,01-02-2024,Mumbai,Maharashtra,Home & Kitchen,Mixer,2,1144,0,Credit Card,28
+10380,12-05-2024,Hyderabad,Telangana,Home & Kitchen,Pan,1,4920,20,UPI,22
+10381,03-03-2024,Mumbai,Maharashtra,Clothing,Kurta,2,903,10,UPI,
+10382,16-01-2024,Bangalore,Karnataka,Clothing,Shirt,4,3385,15,Cash,45
+10383,16-08-2024,Delhi,Delhi,Grocery,Cooking Oil,2,2402,10,Credit Card,22
+10384,02-09-2024,Hyderabad,Telangana,Sports,Yoga Mat,4,3525,20,UPI,25
+10385,07-05-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,4,1783,20,Net Banking,22
+10386,25-06-2024,Kolkata,West Bengal,Sports,Yoga Mat,4,4610,15,Net Banking,40
+10387,22-04-2024,Kolkata,West Bengal,Grocery,Cooking Oil,1,2762,20,UPI,35
+10388,22-03-2024,Bangalore,Karnataka,Home & Kitchen,Lunch Box,3,4934,5,UPI,30
+10389,17-07-2024,Hyderabad,Telangana,Grocery,Sugar,1,1947,20,,28
+10390,15-01-2024,Delhi,Delhi,Clothing,Shirt,3,3089,20,Debit Card,28
+10391,20-01-2024,Hyderabad,Telangana,Home & Kitchen,Lunch Box,3,1588,15,UPI,22
+10392,01-01-2024,Hyderabad,Telangana,Beauty,Shampoo,1,4462,15,Debit Card,30
+10393,16-03-2024,Delhi,Delhi,Grocery,Cooking Oil,3,637,0,Net Banking,28
+10394,27-10-2024,Mumbai,Maharashtra,Beauty,Moisturizer,1,3210,15,UPI,40
+10395,28-11-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,2,3728,15,Debit Card,28
+10396,18-12-2024,Pune,Maharashtra,Clothing,Shirt,2,3249,10,Debit Card,28
+10397,17-01-2024,Delhi,Delhi,Sports,Cricket Bat,5,3357,20,Credit Card,40
+10398,18-06-2024,Hyderabad,Telangana,Sports,Dumbbells,1,4214,5,UPI,30
+10399,06-01-2024,Pune,Maharashtra,Grocery,Cooking Oil,1,2900,15,Debit Card,30
+10400,01-01-2024,Hyderabad,Telangana,Sports,Cricket Bat,3,2252,0,UPI,45
+10401,12-07-2024,Ahmedabad,Gujarat,Sports,Skipping Rope,2,3541,15,Debit Card,45
+10402,07-02-2024,Mumbai,Maharashtra,Home & Kitchen,Lunch Box,2,1482,15,UPI,35
+10403,28-03-2024,Bangalore,Karnataka,Grocery,Biscuits,1,757,10,,28
+10404,08-08-2024,Mumbai,Maharashtra,Beauty,Face Wash,3,4104,0,Credit Card,45
+10405,28-07-2024,Delhi,Delhi,Electronics,Headphones,3,1833,5,Net Banking,35
+10406,19-10-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,556,15,Net Banking,
+10407,30-05-2024,Delhi,Delhi,Electronics,Keyboard,1,3652,0,Net Banking,
+10408,11-02-2024,Hyderabad,Telangana,Electronics,Headphones,2,1549,10,Cash,25
+10409,24-11-2024,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,4,2320,0,Net Banking,45
+10410,23-01-2024,Delhi,Delhi,Grocery,Tea Powder,3,1678,15,Debit Card,
+10411,18-03-2024,Ahmedabad,Gujarat,Grocery,Cooking Oil,3,4772,0,UPI,25
+10412,01-02-2024,Pune,Maharashtra,Beauty,Perfume,5,2013,20,Cash,45
+10413,21-07-2024,Ahmedabad,Gujarat,Beauty,Shampoo,4,2598,0,UPI,28
+10414,05-03-2024,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,2,1885,5,,45
+10415,12-05-2024,Mumbai,Maharashtra,Sports,Skipping Rope,2,1361,20,Debit Card,25
+10416,21-05-2024,Mumbai,Maharashtra,Home & Kitchen,Lunch Box,4,4672,10,Net Banking,
+10417,27-02-2024,Bangalore,Karnataka,Sports,Dumbbells,5,4430,15,Cash,28
+10418,15-10-2024,Delhi,Delhi,Beauty,Hair Oil,5,970,0,UPI,35
+10419,07-11-2024,Pune,Maharashtra,Home & Kitchen,Pan,4,4127,20,Cash,22
+10420,21-07-2024,Delhi,Delhi,Grocery,Tea Powder,2,3440,0,Debit Card,30
+10421,21-06-2024,Bangalore,Karnataka,Sports,Skipping Rope,3,3201,0,Debit Card,35
+10422,14-08-2024,Chennai,Tamil Nadu,Home & Kitchen,Mixer,2,1250,10,Debit Card,35
+10423,27-07-2024,Kolkata,West Bengal,Beauty,Face Wash,2,3768,5,Cash,40
+10424,25-07-2024,Bangalore,Karnataka,Beauty,Shampoo,1,2698,20,Credit Card,22
+10425,21-08-2024,Delhi,Delhi,Clothing,Jeans,1,2193,0,UPI,40
+10426,21-11-2024,Hyderabad,Telangana,Grocery,Biscuits,4,4287,15,UPI,22
+10427,30-08-2024,Hyderabad,Telangana,Grocery,Tea Powder,5,3804,5,Net Banking,40
+10428,16-07-2024,Pune,Maharashtra,Clothing,Jacket,1,2485,0,UPI,28
+10429,19-09-2024,Hyderabad,Telangana,Clothing,Jeans,2,2354,15,UPI,22
+10430,09-05-2024,Ahmedabad,Gujarat,Clothing,Jeans,5,219,5,Net Banking,35
+10431,21-04-2024,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,3,3910,10,Cash,35
+10432,14-10-2024,Kolkata,West Bengal,Beauty,Face Wash,1,4340,10,Net Banking,35
+10433,21-05-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,4,672,10,Debit Card,35
+10434,03-05-2024,Chennai,Tamil Nadu,Sports,Yoga Mat,2,1378,20,UPI,45
+10435,12-05-2024,Pune,Maharashtra,Sports,Football,1,4224,10,Cash,45
+10436,24-06-2024,Kolkata,West Bengal,Sports,Cricket Bat,5,4836,5,Credit Card,
+10437,30-05-2024,Pune,Maharashtra,Beauty,Moisturizer,2,4723,5,,
+10438,01-12-2024,Delhi,Delhi,Sports,Yoga Mat,5,1649,10,UPI,30
+10439,13-05-2024,Pune,Maharashtra,Clothing,Jacket,4,2864,10,Net Banking,35
+10440,13-11-2024,Ahmedabad,Gujarat,Electronics,Mouse,1,4930,20,UPI,
+10441,30-07-2024,Hyderabad,Telangana,Beauty,Face Wash,4,4490,10,UPI,28
+10442,14-03-2024,Delhi,Delhi,Clothing,Jacket,4,4814,15,Debit Card,28
+10443,03-01-2024,Mumbai,Maharashtra,Home & Kitchen,Pan,2,2717,0,Cash,35
+10444,07-03-2024,Hyderabad,Telangana,Clothing,Shirt,2,4160,0,Net Banking,45
+10445,20-01-2024,Kolkata,West Bengal,Home & Kitchen,Water Bottle,4,3290,0,Net Banking,30
+10446,12-12-2024,Pune,Maharashtra,Electronics,Keyboard,5,1711,0,UPI,30
+10447,15-07-2024,Hyderabad,Telangana,Sports,Yoga Mat,3,1206,0,Net Banking,35
+10448,23-09-2024,Delhi,Delhi,Electronics,Headphones,3,2532,15,Net Banking,40
+10449,06-04-2024,Kolkata,West Bengal,Sports,,3,4165,10,Credit Card,45
+10450,28-10-2024,Bangalore,Karnataka,Clothing,Jeans,2,1880,0,Net Banking,28
+10451,15-11-2024,Mumbai,Maharashtra,Grocery,Rice Bag,4,2245,20,UPI,22
+10452,15-08-2024,Mumbai,Maharashtra,Sports,Cricket Bat,1,1098,15,Cash,25
+10453,03-08-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,2,226,10,UPI,35
+10454,28-02-2024,Delhi,Delhi,Home & Kitchen,Mixer,5,1114,10,UPI,
+10455,02-07-2024,Hyderabad,Telangana,Beauty,Shampoo,3,4435,5,Cash,35
+10456,18-06-2024,Delhi,Delhi,Electronics,Bluetooth Speaker,4,1851,15,Credit Card,22
+10457,17-03-2024,Bangalore,Karnataka,Sports,Cricket Bat,1,4853,15,UPI,25
+10458,25-08-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,4,2575,10,UPI,25
+10459,29-02-2024,Delhi,Delhi,Electronics,Keyboard,3,2711,15,UPI,22
+10460,14-11-2024,Bangalore,Karnataka,Clothing,Jeans,3,3078,15,Debit Card,25
+10461,21-08-2024,Pune,Maharashtra,Grocery,Cooking Oil,1,3433,15,Debit Card,45
+10462,22-03-2024,Ahmedabad,Gujarat,Home & Kitchen,Pressure Cooker,1,1235,0,UPI,45
+10463,09-11-2024,Ahmedabad,Gujarat,Beauty,Perfume,2,3260,10,UPI,28
+10464,02-02-2024,Ahmedabad,Gujarat,Home & Kitchen,Mixer,4,3760,0,Debit Card,40
+10465,08-12-2024,Bangalore,Karnataka,Sports,Dumbbells,5,4778,5,Debit Card,25
+10466,17-03-2024,Kolkata,West Bengal,Sports,Football,4,2982,15,Net Banking,22
+10467,25-03-2024,Bangalore,Karnataka,Sports,Football,5,3994,15,UPI,
+10468,24-04-2024,Pune,Maharashtra,Clothing,,3,562,20,Net Banking,45
+10469,17-08-2024,Kolkata,West Bengal,Clothing,T-Shirt,4,3788,20,UPI,
+10470,25-07-2024,Ahmedabad,Gujarat,Grocery,Rice Bag,4,295,0,Cash,22
+10471,14-10-2024,Bangalore,Karnataka,Electronics,Bluetooth Speaker,5,2645,20,Credit Card,
+10472,13-10-2024,Pune,Maharashtra,Grocery,Rice Bag,2,3872,10,Net Banking,
+10473,02-01-2024,Pune,Maharashtra,Sports,Skipping Rope,1,948,5,Debit Card,40
+10474,25-03-2024,Chennai,Tamil Nadu,Beauty,Hair Oil,3,1020,0,Cash,28
+10475,02-03-2024,Kolkata,West Bengal,Electronics,Keyboard,5,1754,5,Cash,30
+10476,20-11-2024,Ahmedabad,Gujarat,Clothing,Jacket,1,3545,0,Net Banking,25
+10477,03-01-2024,Ahmedabad,Gujarat,Home & Kitchen,Lunch Box,5,1252,15,Net Banking,22
+10478,29-03-2024,Kolkata,West Bengal,Beauty,Perfume,5,1601,20,Credit Card,25
+10479,15-07-2024,Kolkata,West Bengal,Sports,Dumbbells,5,2786,20,Cash,30
+10480,11-03-2024,Chennai,Tamil Nadu,Home & Kitchen,Pan,3,3859,5,Cash,35
+10481,15-11-2024,Pune,Maharashtra,Sports,Dumbbells,2,1795,5,Debit Card,40
+10482,29-12-2024,Delhi,Delhi,Sports,Football,5,4594,10,UPI,40
+10483,04-08-2024,Ahmedabad,Gujarat,Beauty,Hair Oil,4,4523,10,UPI,25
+10484,16-05-2024,Bangalore,Karnataka,Home & Kitchen,Pressure Cooker,1,613,5,Credit Card,35
+10485,17-01-2024,Chennai,Tamil Nadu,Clothing,T-Shirt,3,1821,20,Debit Card,
+10486,01-05-2024,Mumbai,Maharashtra,Beauty,Hair Oil,2,4747,15,Net Banking,35
+10487,28-01-2024,Bangalore,Karnataka,Home & Kitchen,Water Bottle,4,2711,20,UPI,35
+10488,06-10-2024,Hyderabad,Telangana,Beauty,Perfume,2,3162,20,Net Banking,30
+10489,29-03-2024,Hyderabad,Telangana,Grocery,Tea Powder,2,760,5,Net Banking,25
+10490,07-03-2024,Kolkata,West Bengal,Electronics,Mouse,3,4709,10,Credit Card,35
+10491,14-06-2024,Bangalore,Karnataka,Grocery,Tea Powder,2,477,5,Net Banking,22
+10492,28-12-2024,Chennai,Tamil Nadu,Home & Kitchen,Lunch Box,5,3083,0,Debit Card,30
+10493,05-10-2024,Delhi,Delhi,Beauty,Face Wash,5,1455,15,Net Banking,45
+10494,03-07-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,2,2868,10,Debit Card,30
+10495,03-05-2024,Ahmedabad,Gujarat,Beauty,Face Wash,1,2984,15,Net Banking,30
+10496,11-05-2024,Bangalore,Karnataka,Sports,Yoga Mat,4,1078,15,Net Banking,35
+10497,06-09-2024,Bangalore,Karnataka,Beauty,Moisturizer,5,4317,15,UPI,35
+10498,02-10-2024,Hyderabad,Telangana,Grocery,Sugar,1,936,5,Net Banking,22
+10499,02-10-2024,Mumbai,Maharashtra,Clothing,Jeans,4,1001,5,Cash,25
+10500,07-02-2024,Delhi,Delhi,Electronics,Mouse,3,460,0,UPI,28
+10501,27-07-2024,Chennai,Tamil Nadu,Beauty,,5,2014,10,Cash,
+10502,30-09-2024,Kolkata,West Bengal,Home & Kitchen,Pan,1,3340,0,UPI,25
+10503,28-05-2024,Bangalore,Karnataka,Sports,Cricket Bat,3,4269,0,Debit Card,25
+10504,21-03-2024,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,4,402,15,Net Banking,30
+10505,01-06-2024,Delhi,Delhi,Sports,Skipping Rope,5,2566,5,Debit Card,22
+10506,20-07-2024,Delhi,Delhi,Electronics,Headphones,1,4841,20,Net Banking,25
+10507,13-03-2024,Chennai,Tamil Nadu,Clothing,Jacket,2,3530,20,Credit Card,28
+10508,09-12-2024,Hyderabad,Telangana,Beauty,Moisturizer,2,1088,5,Net Banking,22
+10509,08-05-2024,Ahmedabad,Gujarat,Sports,Dumbbells,1,2531,0,UPI,30
+10510,25-05-2024,Ahmedabad,Gujarat,Grocery,Biscuits,2,2071,0,Net Banking,25
+10511,03-12-2024,Hyderabad,Telangana,Grocery,Tea Powder,4,2839,20,Debit Card,28
+10512,06-05-2024,Pune,Maharashtra,Grocery,Tea Powder,2,189,10,Credit Card,45
+10513,16-08-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,3,4081,15,Debit Card,35
+10514,12-03-2024,Ahmedabad,Gujarat,Beauty,Face Wash,2,821,10,Net Banking,30
+10515,19-11-2024,Chennai,Tamil Nadu,Sports,Cricket Bat,1,302,20,UPI,45
+10516,29-08-2024,Hyderabad,Telangana,Electronics,Bluetooth Speaker,3,4602,20,Credit Card,40
+10517,13-09-2024,Kolkata,West Bengal,Clothing,Shirt,3,1246,15,Net Banking,25
+10518,16-12-2024,Kolkata,West Bengal,Grocery,Sugar,1,2106,20,Credit Card,28
+10519,04-09-2024,Ahmedabad,Gujarat,Clothing,Jeans,5,4785,5,Debit Card,22
+10520,29-04-2024,Hyderabad,Telangana,Home & Kitchen,Pressure Cooker,1,2315,10,UPI,30
+10521,28-11-2024,Pune,Maharashtra,Home & Kitchen,Water Bottle,4,530,0,Debit Card,25
+10522,30-03-2024,Chennai,Tamil Nadu,Sports,Yoga Mat,5,4609,20,Cash,45
+10523,24-04-2024,Pune,Maharashtra,Beauty,Face Wash,5,2210,15,Net Banking,45
+10524,12-03-2024,Pune,Maharashtra,Grocery,Tea Powder,4,204,20,Cash,28
+10525,05-04-2024,Hyderabad,Telangana,Electronics,Bluetooth Speaker,3,1882,5,Credit Card,40
+10526,03-09-2024,Mumbai,Maharashtra,Sports,Football,4,2855,0,Cash,
+10527,23-01-2024,Hyderabad,Telangana,Beauty,Shampoo,4,333,5,Credit Card,28
+10528,29-01-2024,Delhi,Delhi,Sports,Dumbbells,1,4838,5,Credit Card,35
+10529,04-12-2024,Delhi,Delhi,Beauty,Perfume,5,4767,0,Debit Card,25
+10530,22-04-2024,Hyderabad,Telangana,Home & Kitchen,Lunch Box,4,4095,5,Cash,28
+10531,20-08-2024,Delhi,Delhi,Beauty,Hair Oil,3,1523,10,Net Banking,25
+10532,13-04-2024,Hyderabad,Telangana,Home & Kitchen,Water Bottle,2,1039,0,Net Banking,45
+10533,03-11-2024,Delhi,Delhi,Beauty,Face Wash,2,4048,20,UPI,25
+10534,13-12-2024,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,5,4567,0,Cash,45
+10535,14-07-2024,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,2029,15,Debit Card,25
+10536,25-05-2024,Kolkata,West Bengal,Clothing,Jacket,4,2054,0,Net Banking,45
+10537,01-03-2024,Bengaluru,Tamil Nadu,Clothing,T-Shirt,1,4884,20,Net Banking,22
+10538,24-02-2024,Kolkata,West Bengal,Sports,Football,3,3499,10,Credit Card,45
+10539,09-11-2024,Chennai,Tamil Nadu,Grocery,Sugar,4,4775,10,Debit Card,45
+10540,08-07-2024,Hyderabad,Telangana,Home & Kitchen,Lunch Box,5,4102,5,Net Banking,
+10541,03-12-2024,Chennai,Tamil Nadu,Grocery,Sugar,3,3411,5,UPI,30
+10542,24-07-2024,Ahmedabad,Gujarat,Sports,Football,1,1906,20,Debit Card,22
+10543,03-11-2024,Delhi,Delhi,Home & Kitchen,Mixer,1,1340,15,Cash,25
+10544,20-01-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,3,805,20,Cash,45
+10545,12-08-2024,Chennai,Tamil Nadu,Sports,Dumbbells,1,1585,15,UPI,30
+10546,23-12-2024,Chennai,Tamil Nadu,Clothing,T-Shirt,5,4332,20,Credit Card,28
+10547,21-05-2024,Bangalore,Karnataka,Grocery,Cooking Oil,1,1439,0,Cash,40
+10548,26-12-2024,Kolkata,West Bengal,Home & Kitchen,Lunch Box,2,4391,0,UPI,25
+10549,21-05-2024,Bengaluru,Tamil Nadu,Sports,Dumbbells,5,3001,10,Credit Card,30
+10550,27-07-2024,Ahmedabad,Gujarat,Home & Kitchen,Lunch Box,1,2288,5,Net Banking,25
+10551,11-05-2024,Mumbai,Maharashtra,Beauty,Moisturizer,3,1108,20,Net Banking,35
+10552,22-08-2024,Ahmedabad,Gujarat,Home & Kitchen,Lunch Box,4,2142,10,Cash,22
+10553,12-12-2024,Ahmedabad,Gujarat,Electronics,Keyboard,1,3284,5,Credit Card,40
+10554,07-05-2024,Kolkata,West Bengal,Grocery,Sugar,5,229,10,Debit Card,25
+10555,31-08-2024,Kolkata,West Bengal,Sports,Yoga Mat,1,4692,5,Debit Card,40
+10556,12-04-2024,Hyderabad,Telangana,Beauty,Moisturizer,2,1707,15,Credit Card,30
+10557,01-07-2024,Chennai,Tamil Nadu,Clothing,Jeans,2,2195,20,Credit Card,25
+10558,22-01-2024,Mumbai,Maharashtra,Electronics,Mouse,5,204,20,Cash,40
+10559,18-09-2024,Pune,Maharashtra,Home & Kitchen,Lunch Box,3,4170,5,Debit Card,45
+10560,01-09-2024,Hyderabad,Telangana,Beauty,Shampoo,1,4456,15,Net Banking,22
+10561,23-08-2024,Pune,Maharashtra,Home & Kitchen,Pressure Cooker,4,1136,20,Debit Card,22
+10562,15-06-2024,Bangalore,Karnataka,Sports,Football,4,4909,0,Debit Card,35
+10563,09-11-2024,Delhi,Delhi,Beauty,Moisturizer,2,2356,15,Debit Card,40
+10564,05-07-2024,Delhi,Delhi,Home & Kitchen,Water Bottle,2,3583,10,Cash,35
+10565,21-02-2024,Ahmedabad,Gujarat,Clothing,Shirt,2,4867,5,Debit Card,30
+10566,05-01-2024,Kolkata,West Bengal,Home & Kitchen,Pressure Cooker,2,1375,15,Credit Card,45
+10567,02-06-2024,Ahmedabad,Gujarat,Clothing,Shirt,5,2736,15,Debit Card,22
+10568,31-08-2024,Kolkata,West Bengal,Electronics,Smartphone,1,1915,10,UPI,
+10569,11-05-2024,Pune,Maharashtra,Grocery,Biscuits,3,4740,20,Debit Card,22
+10570,21-10-2024,Kolkata,West Bengal,Electronics,Keyboard,5,1779,20,Net Banking,28
+10571,10-02-2024,Chennai,Tamil Nadu,Grocery,Biscuits,5,4143,15,Cash,35
+10572,19-11-2024,Ahmedabad,Gujarat,Sports,Football,2,2913,15,Net Banking,45
+10573,11-06-2024,Mumbai,Maharashtra,Electronics,Smartphone,3,2019,10,Debit Card,35
+10574,18-08-2024,Kolkata,West Bengal,Grocery,Tea Powder,3,4958,20,Cash,28
+10575,17-04-2024,Delhi,Delhi,Electronics,Smartphone,2,2211,0,Credit Card,45
+10576,14-01-2024,Mumbai,Maharashtra,Electronics,Headphones,4,4642,0,Cash,25
+10577,07-06-2024,Mumbai,Maharashtra,Grocery,Sugar,2,840,15,Credit Card,30
+10578,15-01-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,2,4465,5,UPI,40
+10579,15-08-2024,Pune,Maharashtra,Home & Kitchen,Water Bottle,5,2381,20,Credit Card,28
+10580,07-06-2024,Ahmedabad,Gujarat,Sports,Dumbbells,4,4438,20,Debit Card,
+10581,13-05-2024,Hyderabad,Telangana,Electronics,Mouse,3,3146,15,Credit Card,35
+10582,28-08-2024,Bangalore,Karnataka,Electronics,Bluetooth Speaker,2,2967,10,Net Banking,22
+10583,01-11-2024,Ahmedabad,Gujarat,Home & Kitchen,Pan,1,3676,10,Credit Card,22
+10584,07-05-2024,Pune,Maharashtra,Clothing,Kurta,5,3730,15,Credit Card,45
+10585,21-09-2024,Bengaluru,West Bengal,Clothing,Jacket,1,3608,5,Net Banking,35
+10586,05-02-2024,Chennai,Tamil Nadu,Sports,Dumbbells,3,3532,5,Credit Card,28
+10587,24-12-2024,Chennai,Tamil Nadu,Electronics,Mouse,5,3859,10,Net Banking,
+10588,12-01-2024,Hyderabad,Telangana,Grocery,Rice Bag,2,556,20,Credit Card,25
+10589,16-02-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,4,217,5,Credit Card,22
+10590,09-07-2024,Ahmedabad,Gujarat,Clothing,Jacket,4,2702,15,Cash,22
+10591,06-02-2024,Pune,Maharashtra,Electronics,Smartphone,1,2333,15,Net Banking,
+10592,31-12-2024,Delhi,Delhi,Clothing,Jacket,4,253,0,Credit Card,45
+10593,23-09-2024,Ahmedabad,Gujarat,Clothing,T-Shirt,2,3925,0,Credit Card,
+10594,08-10-2024,Kolkata,West Bengal,Sports,Yoga Mat,3,1449,0,Net Banking,25
+10595,07-12-2024,Chennai,Tamil Nadu,Home & Kitchen,Pan,2,3102,0,Credit Card,25
+10596,21-05-2024,Hyderabad,Telangana,Sports,Skipping Rope,3,273,5,Net Banking,25
+10597,18-12-2024,Kolkata,West Bengal,Clothing,T-Shirt,1,4910,15,Net Banking,28
+10598,17-12-2024,Pune,Maharashtra,Electronics,Smartphone,2,4245,0,Net Banking,40
+10599,05-03-2024,Bangalore,Karnataka,Electronics,Keyboard,2,4543,0,Cash,30
+10600,18-12-2024,Pune,Maharashtra,Beauty,Moisturizer,4,1730,0,Cash,40
+10601,30-05-2024,Delhi,Delhi,Grocery,Rice Bag,4,3734,20,Net Banking,
+10602,27-08-2024,Hyderabad,Telangana,Beauty,Shampoo,5,2998,10,Debit Card,28
+10603,04-10-2024,Mumbai,Maharashtra,Beauty,Shampoo,4,2572,10,Debit Card,
+10604,13-11-2024,Bangalore,Karnataka,Sports,Dumbbells,4,1669,0,Debit Card,30
+10605,25-09-2024,Pune,Maharashtra,Sports,Cricket Bat,5,3324,5,Cash,28
+10606,24-09-2024,Chennai,Tamil Nadu,Grocery,Tea Powder,3,1054,0,UPI,22
+10607,08-04-2024,Delhi,Delhi,Clothing,T-Shirt,2,1026,15,UPI,22
+10608,26-01-2024,Bengaluru,West Bengal,Sports,Skipping Rope,5,4985,10,Debit Card,30
+10609,23-11-2024,Mumbai,Maharashtra,Electronics,Smartphone,4,805,15,UPI,40
+10610,21-01-2024,Kolkata,West Bengal,Grocery,Rice Bag,5,2327,20,UPI,35
+10611,29-09-2024,Mumbai,Maharashtra,Clothing,Shirt,1,979,5,Cash,30
+10612,12-10-2024,Hyderabad,Telangana,Beauty,Shampoo,5,1615,20,Cash,25
+10613,02-04-2024,Pune,Maharashtra,Sports,Skipping Rope,4,1002,5,Net Banking,45
+10614,10-06-2024,Pune,Maharashtra,Sports,Football,5,3779,10,Net Banking,40
+10615,06-10-2024,Pune,Maharashtra,Home & Kitchen,Water Bottle,3,2121,20,Credit Card,45
+10616,18-01-2024,Chennai,Tamil Nadu,Grocery,Tea Powder,4,3402,0,Debit Card,22
+10617,10-06-2024,Delhi,Delhi,Grocery,Rice Bag,3,1967,5,UPI,35
+10618,11-03-2024,Delhi,Delhi,Electronics,Headphones,4,3063,5,Debit Card,40
+10619,23-07-2024,Hyderabad,Telangana,Clothing,Jacket,3,902,20,Net Banking,30
+10620,19-12-2024,Mumbai,Maharashtra,Sports,Yoga Mat,4,1566,15,Net Banking,25
+10621,20-06-2024,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,4,792,0,Debit Card,45
+10622,28-01-2024,Kolkata,West Bengal,Electronics,Smartphone,5,243,15,,22
+10623,23-12-2024,Pune,Maharashtra,Beauty,Hair Oil,2,2827,20,Credit Card,28
+10624,16-02-2024,Bangalore,Karnataka,Sports,Skipping Rope,4,4862,20,Credit Card,45
+10625,31-08-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,2,2903,0,Net Banking,22
+10626,23-12-2024,Bengaluru,West Bengal,Grocery,Rice Bag,4,4260,15,Credit Card,28
+10627,10-04-2024,Ahmedabad,Gujarat,Beauty,Shampoo,4,3388,20,Net Banking,30
+10628,15-02-2024,Hyderabad,Telangana,Electronics,Keyboard,4,2799,20,UPI,45
+10629,31-10-2024,Kolkata,West Bengal,Grocery,Biscuits,2,2777,10,UPI,35
+10630,23-01-2024,Delhi,Delhi,Grocery,Sugar,4,1344,15,Credit Card,30
+10631,13-11-2024,Pune,Maharashtra,Clothing,,1,596,5,Credit Card,35
+10632,12-01-2024,Bangalore,Karnataka,Grocery,Rice Bag,3,3836,15,Debit Card,30
+10633,04-09-2024,Hyderabad,Telangana,Clothing,Shirt,5,2268,20,Net Banking,28
+10634,28-03-2024,Bangalore,Karnataka,Home & Kitchen,Lunch Box,5,506,10,UPI,35
+10635,01-12-2024,Hyderabad,Telangana,Sports,Dumbbells,3,584,15,UPI,25
+10636,29-05-2024,Kolkata,West Bengal,Sports,Yoga Mat,3,1033,0,Cash,30
+10637,29-09-2024,Kolkata,West Bengal,Beauty,Face Wash,3,4120,20,UPI,28
+10638,06-05-2024,Hyderabad,Telangana,Beauty,Perfume,5,326,0,Net Banking,35
+10639,16-12-2024,Pune,Maharashtra,Home & Kitchen,Water Bottle,2,300,10,Debit Card,40
+10640,17-07-2024,Chennai,Tamil Nadu,Clothing,Shirt,3,657,10,UPI,35
+10641,14-07-2024,Hyderabad,Telangana,Clothing,Jacket,4,1274,0,Net Banking,30
+10642,05-11-2024,Kolkata,West Bengal,Clothing,Shirt,2,3643,10,Debit Card,
+10643,11-03-2024,Delhi,Delhi,Clothing,Jeans,5,4584,5,Debit Card,28
+10644,12-10-2024,Kolkata,West Bengal,Clothing,Shirt,2,2750,0,Net Banking,25
+10645,29-07-2024,Delhi,Delhi,Grocery,Cooking Oil,1,2760,15,Debit Card,
+10646,14-01-2024,Chennai,Tamil Nadu,Clothing,Jeans,1,1227,5,Net Banking,35
+10647,10-02-2024,Hyderabad,Telangana,Beauty,Shampoo,2,363,10,Cash,28
+10648,30-08-2024,Ahmedabad,Gujarat,Sports,Yoga Mat,2,3324,15,Credit Card,28
+10649,30-07-2024,Hyderabad,Telangana,Clothing,T-Shirt,4,272,10,Credit Card,30
+10385,07-05-2024,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,4,1783,20,Net Banking,22
+10242,21-02-2024,Bangalore,Karnataka,Sports,Dumbbells,2,2057,0,Cash,40
+10600,18-12-2024,Pune,Maharashtra,Beauty,Moisturizer,4,1730,0,Cash,40
+10579,15-08-2024,Pune,Maharashtra,Home & Kitchen,Water Bottle,5,2381,20,Credit Card,28
+10475,02-03-2024,Kolkata,West Bengal,Electronics,Keyboard,5,1754,5,Cash,30
+10465,08-12-2024,Bangalore,Karnataka,Sports,Dumbbells,5,4778,5,Debit Card,25
+10214,16-11-2024,Mumbai,Maharashtra,Grocery,Cooking Oil,5,2398,5,Debit Card,25
+10589,16-02-2024,Chennai,Tamil Nadu,Grocery,Cooking Oil,4,217,5,Credit Card,22
+10116,29-01-2024,Delhi,Delhi,Sports,Yoga Mat,1,526,10,Debit Card,40
+10634,28-03-2024,Bangalore,Karnataka,Home & Kitchen,Lunch Box,5,506,10,UPI,35
